@@ -24,7 +24,8 @@ To run the model for a day:
 3. You can see the results in the output.txt file
 
 To run the model for a month:
-1. Open the perl command line and type the command
+1. Place the nanogrid.c file in the folder based on the month the model is run for.
+   Open the perl command line and type the command.
    perl computeMonthly.pl
    
 2. The results can be viewed either in the text file or the csv file - depending on what is specified in the perl file
